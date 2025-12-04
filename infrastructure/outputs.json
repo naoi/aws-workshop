@@ -1,0 +1,7 @@
+{
+  "EventsApiStack": {
+    "TableName": "events-table",
+    "ApiUrl": "https://kwwm5oy0kl.execute-api.us-west-2.amazonaws.com/prod/",
+    "EventsApiEndpoint08310F1D": "https://kwwm5oy0kl.execute-api.us-west-2.amazonaws.com/prod/"
+  }
+}
